@@ -23,12 +23,9 @@
 ---
 
 ### 📊 Estatísticas no GitHub
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusBigui)](https://github.com/stats-organization/github-stats-extended)
+
 <div align="center">
-  <a href="https://github.com">
-    <img height="165em" src="https://vercel.app" />
-    <img height="165em" src="https://vercel.app" />
-  </a>
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusBigui)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ---
