@@ -36,12 +36,10 @@
 ### 📫 Onde me encontrar
 
 <div align="left">
-  <a href="https://linkedin.com" target="www.linkedin.com/in/matheus-henrique-bigui
-
-">
+  <a href="www.linkedin.com/in/matheus-henrique-bigui" target="blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="matheusbigui@gmail.com">
     <img src="https://shields.io" alt="Gmail" />
   </a>
 </div>
