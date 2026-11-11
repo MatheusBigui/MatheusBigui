@@ -49,6 +49,31 @@ Estudante de Ciência da Computação na Universidade Federal de Uberlândia (UF
 
 ---
 
+
+## 🚀 Projeto em destaque
+
+### 🚗 Controle de Vagas de Estacionamento
+
+Sistema de gerenciamento de estacionamento desenvolvido em linguagem C como parte da minha jornada acadêmica em Ciência da Computação na UFU.
+
+**Funcionalidades implementadas:**
+- Registro de entrada e saída de veículos.
+- Identificação por placa e classificação por categoria.
+- Controle de vagas disponíveis e ocupadas.
+- Cálculo do tempo de permanência.
+- Cálculo automático de tarifas.
+
+**Tecnologias e conceitos:**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=flat-square)
+
+**Próximas etapas:** implementação da listagem de veículos e do relatório diário.
+
+[📂 Acessar repositório](https://github.com/MatheusBigui/Controle-de-Vagas-de-Estacionamento)
+
+---
+
 <div align="center">
 
 ### 📫 Vamos nos conectar!
